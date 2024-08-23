@@ -18,7 +18,7 @@ li:hover{color:rgb(208, 35, 35); cursor: pointer;}
 
       .right-container{margin: top 200px; ;height: 280px;background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0MSVQKrk1AwcZZ_WD3fAd5YVKn0P8smzIS4D09-f2nGCtbV-HHYDQVY8_wH_Qum7mrmM&usqp=CAU) ;
         border:1px solid black ;; width: 210px; ; position: fixed;right: 30px;top: 200px;bottom: 200px
-    ; background-color: rgb(150, 209, 189);}
+    ; background-color: rgb(150, 209, 189);overflow: auto;}
 
     aside{ padding: 15px;}
 
